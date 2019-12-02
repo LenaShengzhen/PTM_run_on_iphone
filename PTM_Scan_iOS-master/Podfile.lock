@@ -1,0 +1,28 @@
+PODS:
+  - BSGridCollectionViewLayout (1.2.5)
+  - BSImagePicker (2.10.3):
+    - BSGridCollectionViewLayout (= 1.2.5)
+    - BSImageView (= 1.0.3)
+  - BSImageView (1.0.3)
+  - Surge (2.2.0)
+
+DEPENDENCIES:
+  - BSImagePicker (~> 2.8)
+  - Surge (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - BSGridCollectionViewLayout
+    - BSImagePicker
+    - BSImageView
+    - Surge
+
+SPEC CHECKSUMS:
+  BSGridCollectionViewLayout: 333dcb457a5a3bdd9212607ab5756553dcfe06cb
+  BSImagePicker: 07404254f2fcdaf5a2eb403c0f8c337267ce8738
+  BSImageView: a149459433a2687157d034c78e059d30ac7f2544
+  Surge: 51fbaf8020dc2bc6416c07ed540f21536ba5a98b
+
+PODFILE CHECKSUM: 839965edb90fc259cfa363435bed39d9c7d25186
+
+COCOAPODS: 1.8.4
