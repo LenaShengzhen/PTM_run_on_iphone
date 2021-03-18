@@ -15,6 +15,16 @@ Project of CSE_260 (Speed Up PTM Computation for Mobile Devices)
 
 RTIScan is an app for archaeologists. It can use 36 pictures to simulate light and shadow changes from different angles.
 
+![Watch the video](Demo/screenRecording-Demo-after-processing.gif)
+
+
+
+
+
+[Video version](https://youtu.be/w69UHJtXZo8)
+
+
+
 
 
 ## My work
